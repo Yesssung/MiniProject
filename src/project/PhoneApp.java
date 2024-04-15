@@ -15,22 +15,7 @@ public class PhoneApp {
 	private static String rootPath = System.getProperty("user.dir") + "\\files\\";
 	private static String filename = rootPath + "PhoneDB.txt";
 	public static void main(String[] args) {
-		
-//		PhoneList name = new PhoneList();
-//		PhoneList hp = new PhoneList();
-//		PhoneList tel = new PhoneList();
-//		
-//		String[] data1 = {"둘리", "010-1212-3434", "02-5678-8765"};
-//		String[] data2 = {"도우너", "010-1212-3434", "02-5678-8765"};
-//		String[] data3 = {"마이콜", "010-7102-6327", "02-9192-5069"};
-//		String[] data4 = {"또치", "010-6514-5113", "02-7976-9368"};
-//		
-//		ArrayList<String> lst1 = new ArrayList<>(Arrays.asList(data1));
-//		ArrayList<String> lst2 = new ArrayList<>(Arrays.asList(data2));
-//		ArrayList<String> lst3 = new ArrayList<>(Arrays.asList(data3));
-//		ArrayList<String> lst4 = new ArrayList<>(Arrays.asList(data4));
-		
-		
+
 		System.out.println("***********************************");
 		System.out.println("*\t  전화번호 관리 프로그램     \t  *");
 		System.out.println("***********************************");

@@ -24,7 +24,7 @@ public class PhoneApp {
 		System.out.print(">메뉴번호: ");
 		
 		Scanner sc = new Scanner(System.in);
-		int num = sc.nextInt();
+		int num = sc.nextInt(); 
 		
 		switch(num) {
 		
